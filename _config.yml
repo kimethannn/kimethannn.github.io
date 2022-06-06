@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name: '김에단'
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: '/assets/profile/profile.jpeg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: '개발자 아닌 사람'
   location: '한국 어디엔가'
   email: 'b1ackcap@naver.com'
